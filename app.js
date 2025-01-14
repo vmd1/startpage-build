@@ -22,7 +22,7 @@ const CARDS = [
   {
     name: "Spotify",
     icon: "ri-spotify-fill",
-    link: "https://www.open.spotify.com/",
+    link: "https://open.spotify.com/",
     color: "#1ED760",
   },
   {
